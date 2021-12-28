@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chervinsky92
-- 👀 I’m interested in data analytics, improving my programming skills, guinea pigs, and NHL.
-- 🌱 I’m currently learning advanced SQL, JavaScript, and Python for data analysis.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data analytics, getting a data analyst job, improving my skills, my guinea pigs, and the New York Rangers.
+- 🌱 I’m currently learning advanced SQL and Power BI.
+- 💞️ I’m looking to collaborate on a case study
 - 📫 How to reach me: https://www.linkedin.com/in/dmitry-chervinsky-727044139/
 
 <!---
